@@ -97,4 +97,4 @@ Confirme a ação clicando em "**Adicionar como Admin**".
 
 Após o isso, o bot terá sido adicionado no canal como administrador.
 
-Repita este processo quantas vezes forem necessárias até que todos os 50 robôs tenham sido adicionados em todos os 5 canais que você criou.
+Repita este processo quantas vezes forem necessárias até que todos os 50 robôs tenham sido adicionados em todos os canais que você criou.
