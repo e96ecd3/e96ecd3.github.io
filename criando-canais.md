@@ -60,6 +60,8 @@ Clique na última opção que diz "**Canal Privado**".
 
 ### Etapa 3
 
+É assim que ficará após selecionar a opção.
+
 ![Imagem 10](./images/10.jpg)
 
 ### Etapa 4

@@ -1,6 +1,8 @@
 # Adicionado os robôs
 
-Após criar os canais, o próximo passo é adicionar nossos robôs como administradores em cada um deles. Para isso, clique nos links abaixo. Ao clicar em cada link, seu aplicativo Telegram será aberto e você poderá selecionar o canal para adicionar o robô como administrador.
+Após criar os canais, o próximo passo é adicionar nossos robôs como administradores em cada um deles. Para isso, clique nos links abaixo.
+
+Ao clicar em cada link, seu aplicativo Telegram será aberto e você poderá selecionar o canal para adicionar o robô como administrador.
 
 São aproximadamente 50 robôs no total, e é fundamental que cada um deles seja adicionado a todos os canais que você criou.
 
